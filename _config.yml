@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter York V"
+title                    : "Peter York"
 title_separator          : "-"
 name                     : &name "Peter York"
-description              : &description "PhD Candidate"
+description              : &description "Personal Website"
 url                      : https://Peter-York.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Peter-York.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peter-York"
-  avatar           : "profile.png"
+  avatar           : "Portrait.jpeg"
   bio              : "PhD Candidate in Mechanical Engineering at Harvard University"
   location         : "Cambridge, MA"
   employer         :
