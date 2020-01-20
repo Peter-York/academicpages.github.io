@@ -10,4 +10,4 @@ redirect_from:
 
 My research vision is to transform the way robotic tools are controlled in surgery through advances in microfabrication, millimeter-scale actuation, and compliant mechanism synthesis.
 
-![](Cartoon.PNG)
+![blah](http://peter-york.github.io/images/Cartoon.PNG)
