@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My research vision is to transform the way **robotic tools** are controlled in **surgery** through advances in **microfabrication**, millimeter-scale **actuation** and **sensing**, and **compliant-mechanism synthesis**.
+My research vision is to transform the way **robotic tools** are controlled in **surgery** through advances in **microfabrication**, millimeter-scale **actuation and sensing**, and **compliant-mechanism synthesis**.
 
-![cartoon](http://peter-york.github.io/images/Cartoon.PNG | width=100)
+<img src="http://peter-york.github.io/images/Cartoon.PNG" width="200">
