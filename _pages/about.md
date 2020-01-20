@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Peter York's personal website.
+My research vision is to transform the way robotic tools are controlled in surgery through advances in microfabrication, millimeter-scale actuation, and compliant mechanism synthesis.
+
+![](Cartoon.PNG)
