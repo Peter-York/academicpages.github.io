@@ -16,8 +16,6 @@ In its aim to give students the tools and experience needed to be successful des
 
 I served as a teaching assistant in Summer 2017 and Spring 2018 and led the Summer 2019 version of the course.
 
-Test.
-
 [Lecture notes](http://peter-york.github.io/files/Physics_123_Lecture_Notes.pdf)
 
 ---
