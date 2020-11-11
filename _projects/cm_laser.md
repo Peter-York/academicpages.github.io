@@ -1,7 +1,7 @@
 ---
 title: "Robotic Laser Steering"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Laser_scanner.png'>"
-permalink: /projects/cm_laser
+permalink: /project/cm_laser
 collection: projects
 ---
 
