@@ -4,7 +4,7 @@ title: "Robotic Laser Steering"
 permalink: /project/cm_laser
 collection: projects
 header:
-  teaser: "portrait3.jpg"
+  teaser: "image-alignment-150x150.jpg"
 ---
 
 **Project Description**

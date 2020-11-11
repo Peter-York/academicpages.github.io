@@ -4,7 +4,7 @@ title: "Needlescopic Surgical Wrists"
 permalink: /project/wrists
 collection: projects
 header:
-  teaser: "portrait3.jpg"
+  teaser: "image-alignment-150x150.jpg"
 ---
 
 **Project Description**
