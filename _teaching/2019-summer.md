@@ -8,7 +8,7 @@ date: 2019-07-01
 location: "Massachusetts, Cambridge"
 ---
 
-![uC Breadboard]({{ site.url }}/images/Breadboard_Pic_2_Small.png)
+![uC_Breadboard](http://peter-york.github.io/images/Breadboard_Pic_2_Small.jpg)
 
 I led the Summer 2019 version of the course and served as a teaching assistant in Summer 2017 and Spring 2018.
 
