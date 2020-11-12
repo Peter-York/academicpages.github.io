@@ -10,7 +10,7 @@ header:
 <figure>
     <img src= "{{ "Laser_Scanner.png" | prepend: "/images/" | prepend: base_path }}"
          alt="cm laser scanner"
-         style="width:80%">
+         style="width:100%">
     <figcaption>Centimeter laser steering system</figcaption>
 </figure>
 
