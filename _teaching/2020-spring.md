@@ -1,5 +1,5 @@
 ---
-title: "ES 159/259"
+title: "ES 159/259: Introduction to Robotics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-summer
@@ -8,7 +8,7 @@ date: 2020-07-01
 location: "Massachusetts, Cambridge"
 ---
 
-I prepared and presented two guest lectures for my dissertation advisor's robotics class, covering inverse kinematics and Jacobians, respectively.
+This course covers the mathematical foundation for robot modeling and control, mostly focusing on kinematics and dynamics of serial robots. I prepared and presented two guest lectures for the course in Spring 2020, covering Jacobians and inverse kinematics. My lecture notes are linked to, below:
 
 [Velocity kinematics](http://peter-york.github.io/files/Velocity_Kinematics_Lecture_Notes.pdf)
 
