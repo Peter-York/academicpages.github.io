@@ -9,8 +9,9 @@ location: "Massachusetts, Cambridge"
 ---
 
 ![uC_Breadboard](http://peter-york.github.io/images/Breadboard_Pic_2_Small.jpg)
+*Breadboard microcomputer under construction*
 
-I led the Summer 2019 version of the course and served as a teaching assistant in Summer 2017 and Spring 2018.
+I led the Summer 2019 version of the course after having been a teaching assistant in Summer 2017 and Spring 2018.
 
 Physics 123 has been making the design and analysis of electronic circuits as easy as “one-two-three” for over forty years. The course was started in 1974 by Paul Horowitz, who together with Winfield Hill, wrote the seminal text in circuit design, “The Art of Electronics”, based on his notes for the course. The course has evolved somewhat over the years, but it retains Horowitz and Hill’s core philosophy, that electronics is “a simple art, a combination of some basic laws, rules of thumb, and a large bag of tricks” (preface, 1st ed).
 
