@@ -235,10 +235,11 @@ figure {
 /* Figure captions */
 
 figcaption {
-  margin-bottom: 0.25em;
-  color: mix(#fff, $text-color, 50%);
+  margin-bottom: 0em;
+  color: mix(#fff, $text-color, 15%);
   font-family: $caption-font-family;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
+  font-weight: bold;
 
   a {
     color: inherit;
