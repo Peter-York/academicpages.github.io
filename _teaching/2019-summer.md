@@ -8,8 +8,12 @@ date: 2019-07-01
 location: "Massachusetts, Cambridge"
 ---
 
-![uC_Breadboard](http://peter-york.github.io/images/Breadboard_Pic_2_Small.jpg)
-*Breadboard microcomputer under construction*
+<figure>
+    <img src="Breadboard_Pic_2_Small.jpg"
+         alt="Breadboard microcomputer">
+    <figcaption>Breadboard microcomputer under construction</figcaption>
+</figure>
+
 
 I led the Summer 2019 version of the course after having been a teaching assistant in Summer 2017 and Spring 2018.
 
