@@ -6,12 +6,14 @@ permalink: /teaching/2019-summer
 venue: "Harvard University Summer School"
 date: 2019-07-01
 location: "Massachusetts, Cambridge"
+header:
+  teaser: "Breadboard_Pic_2_Small.jpg"
 ---
 
 <figure>
     <img src="Breadboard_Pic_2_Small.jpg"
          alt="Breadboard microcomputer">
-    <figcaption>Breadboard microcomputer under construction</figcaption>
+    <figcaption>Breadboard microcomputer construction</figcaption>
 </figure>
 
 
