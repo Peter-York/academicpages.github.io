@@ -6,8 +6,6 @@ permalink: /teaching/2019-summer
 venue: "Harvard University Summer School"
 date: 2019-07-01
 location: "Massachusetts, Cambridge"
-header:
-  teaser: "Breadboard_Pic_2_Small.jpg"
 ---
 <figure>
     <img src= "{{ "Breadboard_Pic_2_Small.jpg" | prepend: "/images/" | prepend: base_path }}"
