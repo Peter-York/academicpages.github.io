@@ -12,9 +12,7 @@ header:
 <figure>
     <img src= "{{ "Breadboard_Pic_2_Small.jpg" | prepend: "/images/" | prepend: base_path }}"
          alt="Breadboard microcomputer"
-         style="width:80%"
-         border="0"
-         style="display:block;">
+         style="width:80%">
     <figcaption>Breadboard microcomputer under construction</figcaption>
 </figure>
 
