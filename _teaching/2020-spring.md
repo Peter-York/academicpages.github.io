@@ -2,9 +2,9 @@
 title: "ES 159/259: Introduction to Robotics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-summer
+permalink: /teaching/2020-spring
 venue: "Harvard University"
-date: 2020-07-01
+date: 2020-02-01
 location: "Massachusetts, Cambridge"
 ---
 

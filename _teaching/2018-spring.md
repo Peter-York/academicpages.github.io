@@ -2,9 +2,9 @@
 title: "ES 20: Engineering the Acoustical World"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-summer
+permalink: /teaching/2018-spring
 venue: "Harvard University"
-date: 2020-07-01
+date: 2018-02-01
 location: "Massachusetts, Cambridge"
 ---
 
