@@ -1,7 +1,7 @@
 ---
-title: "ES 159/259: Introduction to Robotics"
+title: "ES 259/159: Introduction to Robotics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate/Undergraduate course"
 permalink: /teaching/2020-spring
 venue: "Harvard University"
 date: 2020-02-01
