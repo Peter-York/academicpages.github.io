@@ -11,9 +11,9 @@ header:
 ---
 
 <figure>
-    <img src="Breadboard_Pic_2_Small.jpg"
+    <img src= "{{ "Breadboard_Pic_2_Small.jpg" | prepend: "/images/" | prepend: base_path }}"
          alt="Breadboard microcomputer">
-    <figcaption>Breadboard microcomputer construction</figcaption>
+    <figcaption>Breadboard microcomputer under construction</figcaption>
 </figure>
 
 
