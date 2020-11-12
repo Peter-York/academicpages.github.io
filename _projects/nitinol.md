@@ -10,6 +10,6 @@ header:
 **Project Description**
 
 <figure>
-    <iframe width=80% height="315" src="https://www.youtube.com/embed/yMeSXfQQgI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% include youtubePlayer.html id="yMeSXfQQgI8" %}
     <figcaption>Overview video</figcaption>
 </figure>
