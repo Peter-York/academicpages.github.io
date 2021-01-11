@@ -9,7 +9,6 @@ header:
 
 **Project Description**
 
-<figure>
-    {% include youtubePlayer.html id="yMeSXfQQgI8" %}
-    <figcaption>Overview video</figcaption>
-</figure>
+{% include youtubePlayer.html id="yMeSXfQQgI8" %}
+
+Blah test

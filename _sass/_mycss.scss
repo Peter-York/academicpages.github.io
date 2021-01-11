@@ -2,15 +2,47 @@
 
 .embed-youtube {
     position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 25px;
-    height: 0;
+//    padding-bottom: 56.25%;
+    margin: 0 auto 1em;
+    border: none;
+    max-width: 80%;
+    //max-height: 315px;
   }
 
-.embed-youtube iframe {
+.embed-youtube::before {
+//     content: '';
+     display: block;
+     position: relative;
+     padding-bottom: 56.25%;
+}
+
+.embed-youtube iframe,
+.embed-youtube object,
+.embed-youtube embed {
     position: absolute;
     top: 0;
     left: 0;
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
   }
+
+ .embed-youtube figcaption {
+  margin: 0.5em auto 0.5em;
+//   position: absolute;
+//   bottom: 0;
+//   height: 10%;
+//   width: 100%;
+//   border: 1px solid blue;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.left {
+  display: block;
+  width: 80%;
+}
