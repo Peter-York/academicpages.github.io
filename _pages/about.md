@@ -1,11 +1,8 @@
 ---
 permalink: /
 title: "About me"
-#excerpt: "About me"
+excerpt: "About me"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 My aim is to transform the way **robotic tools** are deployed in **surgery**. I draw  on advances in microfabrication, millimeter-scale actuation and sensing, and compliant-mechanism synthesis and a broad suite of mechanical and electrical engineering skills.
