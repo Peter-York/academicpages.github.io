@@ -2,6 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "Peter York's Personal Website"
+teaser: "portrait3.jpg"
 author_profile: true
 redirect_from:
   - /about/
