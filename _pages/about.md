@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Personal website"
 excerpt: "About me"
 author_profile: true
 ---
