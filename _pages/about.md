@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My aim is to transform the way **robotic tools** are deployed in **surgery**. I draw  on advances in microfabrication, millimeter-scale actuation and sensing, and compliant-mechanism synthesis and a broad suite of robotic, mechanical, and electrical engineering skills.
+My aim is to transform the way **robotic tools** are deployed in **surgery**. I draw  on advances in microfabrication, millimeter-scale actuation and sensing, and compliant-mechanism synthesis and a broad suite of mechanical and electrical engineering skills.
 
 My academic background is in mechanical engineering. As an undergraduate (BEng, Vanderbilt, 2014) I worked under Prof. Robert J. Webster in the [Vanderbilt Medical Engineering and Discovery Lab](http://research.vuse.vanderbilt.edu/MEDLab/), and as a graduate student (PhD, Harvard, 2020) I worked under Prof. Robert J. Wood in the [Harvard Microrobotics Lab](https://www.micro.seas.harvard.edu/). I am currently a post doc with Prof. Wood, working on translating my dissertation research into an early-stage investable technology.
 
