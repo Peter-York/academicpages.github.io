@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Peter York's Personal Website"
+title2                   : "Home"
 title_separator          : "-"
 name                     : &name "Peter York"
 description              : &description "Collection of my projects, publications, and teaching experiences"
