@@ -230,11 +230,24 @@ figure {
       width: 100%;
     }
   }
+  &.threequarters {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(70% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 70%;
+      text-align: center;
+    }
+  }
 }
 
 /* Figure captions */
 
-figcaption {
+figure figcaption {
   margin-top: 0.5em;
   margin-bottom: 0.25em;
   color: mix(#fff, $text-color, 15%);

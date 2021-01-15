@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter York"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Peter York"
 description              : &description "Personal Website"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peter-York"
   avatar           : "portrait3.jpg"
-  bio              : "PhD Candidate in Mechanical Engineering at Harvard University"
+  bio              : "Post-Doc in Mechanical Engineering at Harvard University"
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
   googlescholar    : # "https://scholar.google.com/citations?user=D5nma_QAAAAJ&hl=en&oi=sra"
-  email            :
+  email            : pyork@g.harvard.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : peter-york-robotics
   orcid            :
   pinterest        :
   soundcloud       :
@@ -155,6 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+theme: null
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
