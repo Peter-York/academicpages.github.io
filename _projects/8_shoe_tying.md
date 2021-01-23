@@ -4,7 +4,7 @@ title: "Shoe tying robot"
 permalink: /project/shoe_tying
 collection: projects
 header:
-  teaser: "Teaser_shoe_tying_72.png"
+  teaser: "Teaser_shoe_tying_300.png"
 ---
 This project was from my undergraduate senior design class, in which I led a group of five students in building a robotic system capable of tying a shoe. The project was proposed as being analogous to bomb-defusing tasks, in which remote operators use teleoperation to dexterously control robots for carefully disarming bombs. We developed both an end-to-end teleoperation system and a set of interchangeable mechanical graspers. We were one of the three out of approximately a dozen mechanical engineering design teams to be awarded a Design Award for "showing the most creativity and originality in their designs".
 <figure class="threequarters">

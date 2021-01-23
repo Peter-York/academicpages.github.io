@@ -4,7 +4,7 @@ title: "Nitinol living hinges"
 permalink: /project/nitinol
 collection: projects
 header:
-  teaser: "Teaser_nitinol_72.png"
+  teaser: "Teaser_nitinol_300.png"
 ---
 
 **Background:** Nitinol has numerous properties that recommend it as a material for biomedical applications, including its superelasticity, biocompatibility, kink resistance, torquability, and fatigue resistance in strain-controlled environments. By exploiting these properties, passive devices such as stents, catheter tubes, guide wires, and stone baskets enable less invasive interventions and better surgical outcomes than would be possible with more rigid stainless steel tools. Incorporating nitinol in active robotic devices is an ongoing research interest, marked by the development of a variety of robotic systems and mechanisms that leverage nitinol's unique properties to facilitate minimally invasive surgical interventions. Core to these efforts have been the development of new fabrication and processing techniques for machining the material while retaining its superelastic structure.

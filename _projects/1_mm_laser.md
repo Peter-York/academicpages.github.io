@@ -4,7 +4,7 @@ title: "Millimeter-scale laser steering"
 permalink: /project/mm_laser
 collection: projects
 header:
-  teaser: "Teaser_mm_laser_72.png"
+  teaser: "Teaser_mm_laser_300.png"
 ---
 <figure>
     <img src= "{{ "MM_laser.png" | prepend: "/images/" | prepend: base_path }}"

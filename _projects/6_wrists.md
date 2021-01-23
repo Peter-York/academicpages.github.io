@@ -4,7 +4,7 @@ title: "Needlescopic surgical wrists"
 permalink: /project/wrists
 collection: projects
 header:
-  teaser: "Teaser_wrist_72.png"
+  teaser: "Teaser_wrist_300.png"
 ---
 
 This was a project that I worked on as an undergraduate researcher with Prof. Webster at Vanderbilt. His lab had developed an exciting technology called "concentric tube robots", in which nested, pre-curved superelastic nitinol tubes are rotated and translated to access difficult-to-reach parts of the body in minimally invasive surgery, such as the skull base and the lungs. My contribution, conducted under the direction of Phil Swaney, was to develop a simple flexible wrist to enhance the distal dexterity of these devices.

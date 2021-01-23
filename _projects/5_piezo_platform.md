@@ -4,7 +4,7 @@ title: "Piezoelectric vibration platform"
 permalink: /project/piezo_platform
 collection: projects
 header:
-  teaser: "Teaser_Platform_72.png"
+  teaser: "Teaser_Platform_300.png"
 ---
 
 This piezoelectric vibration platform is used for providing a frequency-rich input to microrobotic components and could also be used in linear positioning applications. It consists of a low-profile sarrus linkage driven by four piezoelectric bending actuators acting in parallel. This was designed and built as part of an exploration into compact out-of-plane displacement amplification mechanisms. The idea is to achieve a linear output motion that is similar in magnitude to the thickness of the device. Here, an output motion of ~250 um is achieved for the ~1 mm thick device.

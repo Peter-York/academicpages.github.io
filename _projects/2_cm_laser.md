@@ -4,7 +4,7 @@ title: "Centimeter-scale laser steering"
 permalink: /project/cm_laser
 collection: projects
 header:
-  teaser: "Teaser_cm_laser_72.png"
+  teaser: "Teaser_cm_laser_300.png"
 ---
 
 <figure>

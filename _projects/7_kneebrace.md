@@ -4,7 +4,7 @@ title: "Variable stiffness knee brace"
 permalink: /project/kneebrace
 collection: projects
 header:
-  teaser: "Teaser_knee_brace_72.png"
+  teaser: "Teaser_knee_brace_300.png"
 ---
 This project was conducted as the central component of an intensive medical device design course taught by Prof. Conor Walsh at Harvard (ES 227). Our team worked with a local clinician to develop a variable stiffness knee brace that provides support only when needed. The goal was to reduce non-contact ACL injuries by using a brace that provides stiffness only when injurious motions would be performed. In practice, this is a very difficult problem because of the serial compliance of human skin; it is difficult to achieve a stable mechanical ground onto which to anchor the brace.
 
