@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Innovator in microfabrication and robotic surgery"
+title: "Innovator in robotic surgery"
 excerpt: "About me"
 author_profile: true
 ---
