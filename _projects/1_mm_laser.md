@@ -42,7 +42,7 @@ This work demonstrates a significant leap in the capability of microrobotic lase
 **Simulink model:** This is an example of a Simulink model used to control the position of the laser, in this case, via teleoperation. Desired velocities are received over UDP, integrated, then converted to voltage output commands. Additional subsystems allow for safe, repeatable startup as well as following along registered trajectories:
 
 <figure>
-    <img src= "{{ "Simulink_Model_Teleoperation.png" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "Simulink_Model_Teleoperation.PNG" | prepend: "/images/" | prepend: base_path }}"
          alt="Simulink model"
          style="width:100%">
 </figure>
