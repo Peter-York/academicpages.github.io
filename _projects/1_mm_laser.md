@@ -30,3 +30,19 @@ This work demonstrates a significant leap in the capability of microrobotic lase
 
 **Colonoscope interfacing simulation:** This video shows the interfacing with a commercial colonoscope and a simulated insertion with polyp resection:
 {% include youtubePlayer.html id="0pRNB2u0H_M"%}
+
+**Experimental setup and system architecture:** **(A)** depicts the measurement setup for collecting laser spot position with high-speed camera, low-flicker lighting, and supporting equipment. **(B)** shows the hardware architecture and signal flow for laser teleoperation from the joystick input device to the laser steering tool. **(C)** summarizes the program flow for mapping joystick pose to actuator inputs within the Open Haptics API and XPC Target.
+
+<figure>
+    <img src= "{{ "MM_laser_experimental_setup.PNG" | prepend: "/images/" | prepend: base_path }}"
+         alt="Simulink model"
+         style="width:100%">
+</figure>
+
+**Simulink model:** This is an example of a Simulink model used to control the position of the laser, in this case, via teleoperation. Desired velocities are received over UDP, integrated, then converted to voltage output commands. Additional subsystems allow for safe, repeatable startup as well as following along registered trajectories:
+
+<figure>
+    <img src= "{{ "Simulink_Model_Teleoperation.png" | prepend: "/images/" | prepend: base_path }}"
+         alt="Simulink model"
+         style="width:100%">
+</figure>
