@@ -16,7 +16,7 @@ header:
 
 **Internal system view:**
 <figure>
-    <img src= "{{ "flex_laser_labeled2.png" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "flex_laser_labeled2.PNG" | prepend: "/images/" | prepend: base_path }}"
          alt="flexible laser"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
@@ -24,7 +24,7 @@ header:
 
 **Laser output:**
 <figure>
-    <img src= "{{ "flex_laser_labeled3.png" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "flex_laser_labeled3.PNG" | prepend: "/images/" | prepend: base_path }}"
          alt="flexible laser"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
@@ -32,7 +32,7 @@ header:
 
 **Power and control electronics:**
 <figure>
-    <img src= "{{ "flex_laser_labeled4.png" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "flex_laser_labeled4.PNG" | prepend: "/images/" | prepend: base_path }}"
          alt="flexible laser"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
@@ -40,7 +40,7 @@ header:
 
 **Acrylic burn tests:**
 <figure>
-    <img src= "{{ "flex_laser_labeled5.png" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "flex_laser_labeled5.PNG" | prepend: "/images/" | prepend: base_path }}"
          alt="flexible laser"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
@@ -48,7 +48,7 @@ header:
 
 **Power measurement:**
 <figure>
-    <img src= "{{ "flex_laser_labeled6.png" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "flex_laser_labeled6.PNG" | prepend: "/images/" | prepend: base_path }}"
          alt="flexible laser"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->

@@ -8,32 +8,32 @@ header:
 ---
 **State of the art:**
 <figure>
-    <img src= "{{ "electrostatic1.png" | prepend: "/images/" | prepend: base_path }}"
-         alt="cm laser scanner"
+    <img src= "{{ "electrostatic1.PNG" | prepend: "/images/" | prepend: base_path }}"
+         alt="state of the art"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
 </figure>
 
 **Principle of operation:**
 <figure>
-    <img src= "{{ "electrostatic2.png" | prepend: "/images/" | prepend: base_path }}"
-         alt="cm laser scanner"
+    <img src= "{{ "electrostatic2.PNG" | prepend: "/images/" | prepend: base_path }}"
+         alt="principle of operation"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
 </figure>
 
 **Finite element modeling:**
 <figure>
-    <img src= "{{ "electrostatic3.png" | prepend: "/images/" | prepend: base_path }}"
-         alt="cm laser scanner"
+    <img src= "{{ "electrostatic3.PNG" | prepend: "/images/" | prepend: base_path }}"
+         alt="FEM"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
 </figure>
 
 **Prototype and basic motion:**
 <figure>
-    <img src= "{{ "electrostatic4.png" | prepend: "/images/" | prepend: base_path }}"
-         alt="cm laser scanner"
+    <img src= "{{ "electrostatic4.PNG" | prepend: "/images/" | prepend: base_path }}"
+         alt="Prototype"
          style="width:60%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
 </figure>
