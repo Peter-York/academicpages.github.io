@@ -8,7 +8,7 @@ header:
 ---
 **External system view:**
 <figure>
-    <img src= "{{ "flex_laser_labeled1.png" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "flex_laser_labeled1.PNG" | prepend: "/images/" | prepend: base_path }}"
          alt="flexible laser"
          style="width:80%">
     <!-- <figcaption>Centimeter laser steering system</figcaption> -->
