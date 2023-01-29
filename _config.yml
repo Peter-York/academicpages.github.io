@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Peter-York"
   avatar           : "portrait3.jpg"
-  bio              : "Post-Doc in Mechanical Engineering at Harvard University"
-  location         : "Cambridge, MA"
+  bio              : "Senior Mechanical Design Engineer - Medtronic"
+  location         : "North Haven, CT"
   employer         :
   pubmed           :
   googlescholar    : # "https://scholar.google.com/citations?user=D5nma_QAAAAJ&hl=en&oi=sra"
-  email            : pyork@g.harvard.edu
+  email            : #pyork@g.harvard.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
