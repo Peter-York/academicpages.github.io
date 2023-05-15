@@ -12,7 +12,7 @@ header:
 **Project:** In this project, I developed a hybrid manufacturing process that combines abrasive jet and laser micromachining to enable the creation of living hinges in nitinol that retain the superelastic properties of the bulk material. The former selectively etches through the thickness of a workpiece and the latter defines the part's final geometry. Because the majority of the material removal is done with the room-temperature mechanical etching procedure, thermal damage to the part is minimized. Processing parameters to achieve desired geometries are described, a bending stiffness model for the living hinges is provided, and validation experiments are presented. Lastly, to demonstrate the usefulness of these components to millimeter-sized robotic systems and medical devices, I show their integration in two prototype devices: an endoscopic camera wrist and a simple laser beam steering system.
 
 **Overview video:** This video shows detail of the fabrication process, stiffness testing, and the prototype devices:
-{% include youtubePlayer.html id="yMeSXfQQgI8"%}
+{% include youtubePlayer.html id="1YYwhytsatY"%}
 
 <figure>
     <img src= "{{ "Samples_5678_3Dprofile_color_big.PNG" | prepend: "/images/" | prepend: base_path }}">

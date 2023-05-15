@@ -21,19 +21,19 @@ This work enables new millimeter-scale systems and to facilitate the downscaling
 The potential applications for these devices on the millimeter scale are numerous, as judged by existing deployments in centimeter-sized systems. Claeyssen, et al. [1], describe a host of device applications: micro-scanning and shutter control for high-speed optical systems, active damping and shape control in aerodynamic systems, and acoustic sourcing for mapping underwater pipe networks and structural health monitoring. Janker, et al. [2] describe a wing morphing mechanism and vibration absorbers for helicopters and automobiles. Liu, et al. [3] and Lee, et al. [4] use flextensional actuators as the basis for in-plane and out-of-plane micropositioning stages, respectively.
 
 **Laser micromachining:** This video shows the use of a galvo-operated UV laser to micromachine the carbon fiber amplification frame. This is the final step of device fabrication, in which the device is released from the multi-material laminate from which it is formed:
-{% include youtubePlayer.html id="qqgs0mI19Qw"%}
+{% include youtubePlayer.html id="Xh3Cc_VOi34"%}
 
 **Free displacement:** This clip shows the free (unloaded) motion of the actuator. For these type of devices, typical output displacements are ~50-100 um:
-{% include youtubePlayer.html id="5S4Af7p4oLY"%}
+{% include youtubePlayer.html id="e1R74G7pHUM"%}
 
 **Blocked force:** Next, this clip shows the other extreme of actuator performance: fully blocked output, in this case with a force sensor that allows the blocked force to be measured. Any internal motion of the actuator in this configuration represents loss in output work. Typical output force is ~50-100 mN:
-{% include youtubePlayer.html id="s_lih4X8WQg"%}
+{% include youtubePlayer.html id="eOyAsP7jgsk"%}
 
 **Spring load:** Lastly, this clip shows an intermediate loading condition: a spring load is attached to the output, and some intermediate force and displacement are achieved in between the extremes of free displacement and blocked force:
-{% include youtubePlayer.html id="0hGlI_iiNfk"%}
+{% include youtubePlayer.html id="a3cGjv8--aE"%}
 
 **Microgripper demonstration:** In this video, pincers are added to the flextensional actuator to enable grasping of small objects. This shows potential usage of this technology in micromanipulation applications:
-{% include youtubePlayer.html id="lXAb7RbojAs"%}
+{% include youtubePlayer.html id="59D54POUCm0"%}
 
 <br/><br/>
 **References:**

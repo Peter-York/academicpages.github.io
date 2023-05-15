@@ -14,7 +14,7 @@ A large portion of our efforts consisted of conducting benchtop tests using simu
 {% include youtubePlayer.html id="juxn3izgLTM"%}
 
 **Demonstration video:** This video demonstrates the variable-stiffness knee brace concept in action. A prototype brace was made by a functional apparel designer who was working with Prof. Walsh at the time. The video shows, in a somewhat over-the-top way, that our brace didn't impede motion. Further development and much broader testing would be needed to show an impact on ACL injury reduction:
-{% include youtubePlayer.html id="FTAvCMkrM1Y"%}
+{% include youtubePlayer.html id="gq6sDgWenPw"%}
 
 \
 **Experimental setup:** This shows the integrated test rig with force sensor, IMU, leg model, and data acquisition system:

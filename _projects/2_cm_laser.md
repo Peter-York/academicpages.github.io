@@ -19,11 +19,11 @@ I became interested in the use of lasers for minimally invasive surgery when lea
 This prototype was developed in collaboration with a visiting Master's student, Simon Bothner, from EPFL. Simon did the mechanical and optical design, I did the control, and we worked together on the fabrication. The basic idea is to mount miniature mirrors on flexible linkages that can be controlled with high-bandwidth piezoelectric bending actuators. We used a mixture of custom and off-the-shelf components, and a mixture of CNC and printed circuit MEMS fabrication techniques. The final design was 15 mm in diameter, 45 mm in length, and achieved an 18 x 10 mm range of motion at 20 mm standoff distance with mechanical bandwidth of 750 Hz.
 
 **Principle of operation and system overview:** This video demonstrates the use of piezoelectric bending actuators to control the orientation of miniature mirrors:
-{% include youtubePlayer.html id="QvrKOkfi4kk"%}
+{% include youtubePlayer.html id="33SUedct8WU"%}
 
 
 **Teleoperation:** This video shows the use of a Phantom Omni input device to control the position of the laser. A clutching scheme allows the user to maintain an ergonomic grip on the input device throughout the workspace of the laser. A large range of motion is achieved with low control latency:
-{% include youtubePlayer.html id="kPblRGd8I5Q"%}
+{% include youtubePlayer.html id="axhBV8LdBlk"%}
 
 
 **Waypoint acquisition and tracking:** This video illustrates the combination of human input and automatic control; the user selects waypoints on the ellipse, which the device follows using robotic control, faster and more accurately than possible with the human hand:

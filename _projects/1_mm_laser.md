@@ -20,19 +20,18 @@ An important contribution of this work is the development of a new modular desig
 This work demonstrates a significant leap in the capability of microrobotic laser steering tools. It is small enough to be integrated with existing flexible surgical scopes and deployed on laparoscopic tools. The modular design and fabrication approach developed for this device are translate-able to other devices and will enable the fabrication of new, complex millimeter-sized microrobotic and medical devices.
 
 **Principle of operation:** Individual components are highlighted and their contribution to overall device function described. The relationship between input control voltage and output laser position is shown:
-{% include youtubePlayer.html id="Wevbqs2map8"%}
+{% include youtubePlayer.html id="H6jQ90DiOTE"%}
 
 **Device assembly:** Assembly is straightforward due to the modular design and fabrication approach. This video shows zoomed-in detail of the entire assembly process:
-{% include youtubePlayer.html id="TwnDR2T07Ik"%}
+{% include youtubePlayer.html id="W0-5XqyPYyc"%}
 
 **Performance demonstrations:** This video shows device performance in a variety of contexts -- trajectory following, dynamic control, and multi-modal control:
-{% include youtubePlayer.html id="_-5_w_65gko"%}
+{% include youtubePlayer.html id="g2eTxxteqUc"%}
 
 **Colonoscope interfacing simulation:** This video shows the interfacing with a commercial colonoscope and a simulated insertion with polyp resection:
-{% include youtubePlayer.html id="0pRNB2u0H_M"%}
+{% include youtubePlayer.html id="xAIQq99Sy_s"%}
 
-\
-**Experimental setup and system architecture:** **(A)** depicts the measurement setup for collecting laser spot position with high-speed camera, low-flicker lighting, and supporting equipment. **(B)** shows the hardware architecture and signal flow for laser teleoperation from the joystick input device to the laser steering tool. **(C)** summarizes the program flow for mapping joystick pose to actuator inputs within the Open Haptics API and XPC Target.
+**Experimental setup and system architecture:** **(A)** depicts the measurement setup for collecting laser spot position with high-speed camera, low-flicker lighting, and supporting equipment. **(B)** shows the hardware architecture and signal flow for laser teleoperation from the joystick input device to the laser steering tool. **(C) summarizes the program flow for mapping joystick pose to actuator inputs within the Open Haptics API and XPC Target.
 
 <figure>
     <img src= "{{ "MM_laser_experimental_setup.PNG" | prepend: "/images/" | prepend: base_path }}"
@@ -40,11 +39,10 @@ This work demonstrates a significant leap in the capability of microrobotic lase
          style="width:100%">
 </figure>
 
-\
 **Simulink model:** This is an example of a Simulink model used to control the position of the laser, in this case, via teleoperation. Desired velocities are received over UDP, integrated, then converted to voltage output commands. Additional subsystems allow for safe, repeatable startup as well as following along registered trajectories:
 
 <figure>
-    <img src= "{{ "Simulink_Model_Teleoperation.PNG" | prepend: "/images/" | prepend: base_path }}"
+    <img src= "{{ "Simulink_Model_Teleoperation.png" | prepend: "/images/" | prepend: base_path }}"
          alt="Simulink model"
          style="width:100%">
 </figure>
