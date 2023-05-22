@@ -16,4 +16,4 @@ This project was from my undergraduate senior design class, in which I led a gro
 {% include youtubePlayer.html id="v9MpodZxv0w"%}
 
 **Shoe tying:** This is a demonstration of successful shoe tying using our graspers and teleoperation scheme:
-{% include youtubePlayer.html id="A9vctABy4nE"%}
+{% include youtubePlayer.html id="jXEp7QmIVHY"%}

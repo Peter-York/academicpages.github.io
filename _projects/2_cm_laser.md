@@ -27,6 +27,6 @@ This prototype was developed in collaboration with a visiting Master's student, 
 
 
 **Waypoint acquisition and tracking:** This video illustrates the combination of human input and automatic control; the user selects waypoints on the ellipse, which the device follows using robotic control, faster and more accurately than possible with the human hand:
-{% include youtubePlayer.html id="BUr6CHbMZig"%}
+{% include youtubePlayer.html id="iCSZo-H9418"%}
 
 The prototype demonstrates the concept well, and the performance was largely as desired. However, further miniaturization would be needed in order to be suitable for minimally invasive surgery, in which smaller diameter is needed (roughly sub centimeter, but smaller depending on the procedure). I also learned a lot about the difficulty of aligning optical components -- seeing the need for modular, repeatable assembly, which would inspire innovation in my [next prototype](mm_laser).
